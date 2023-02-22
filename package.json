@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@auth0/auth0-react": "^2.0.0",
+    "@supabase/supabase-js": "^2.8.0",
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  }
+}
